@@ -24,30 +24,15 @@ Portafolio personal y presentación profesional de Omar Sena, desarrollado como 
 - Three.js
 - ScrollTrigger
 
-## Ejecutar localmente
+## Estado del proyecto
 
-1. Clona este repositorio.
-2. Abre la carpeta del proyecto.
-3. Inicia un servidor local desde la raíz:
+Este repositorio contiene la versión compilada y lista para producción del portfolio. No está pensado para ejecutarse como proyecto de desarrollo local ni para seguir un flujo de compilación en esta carpeta.
 
-```bash
-python3 -m http.server 8000
-```
+## Código fuente
 
-4. Abre tu navegador en:
+El código original del proyecto, junto con su estructura de desarrollo y las instrucciones correspondientes, se encuentra en:
 
-```text
-http://localhost:8000
-```
-
-## Construcción opcional
-
-Si deseas generar una versión optimizada del sitio, puedes ejecutar:
-
-```bash
-npm install
-npm run build
-```
+https://github.com/zOmArRD/Portfolio
 
 ## Contacto
 
